@@ -64,13 +64,13 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rathindhar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathindhar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rathindhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathindhar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Rathindhar&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rathindhar&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
