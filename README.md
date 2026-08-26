@@ -85,8 +85,23 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 ## 🐍 My Contributions
 
+## 🕹️ Pac-Man Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rathindhar/Rathindhar/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Rathindhar/Rathindhar/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Rathindhar/Rathindhar/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Rathindhar/Rathindhar/output/pacman-contribution-graph.svg"
+      alt="Pac-Man Contribution Graph"
+    />
+  </picture>
 </p>
 
 ---
