@@ -85,7 +85,6 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 ## 🐍 My Contributions
 
-## 🕹️ Pac-Man Contribution Graph
 
 <p align="center">
   <picture>
