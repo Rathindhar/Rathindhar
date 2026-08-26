@@ -32,8 +32,6 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 </p>
 
 
----
-
 ### Backend & Database
 
 <p align="left">
@@ -41,7 +39,6 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 </p>
 
-**Java • Spring Boot • REST APIs • MySQL • SQL**
 
 ### AI & GenAI
 
@@ -82,6 +79,14 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rathindhar&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rathindhar/Rathindhar/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </p>
 
 ---
