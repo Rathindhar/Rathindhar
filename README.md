@@ -23,7 +23,7 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </p>
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
@@ -31,7 +31,6 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </p>
 
-**HTML5 • CSS3 • JavaScript**
 
 ---
 
