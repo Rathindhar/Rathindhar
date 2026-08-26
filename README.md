@@ -57,7 +57,6 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" height="45" alt="Postman" title="Postman"/>
 </p>
 
-**Git • GitHub • VS Code • Postman**
 
 ---
 
