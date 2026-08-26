@@ -48,7 +48,7 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 **LangChain • LLM Applications • Prompt Engineering • OpenAI API**
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git" title="Git"/>
@@ -61,14 +61,13 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 ---
 
 ## 📚 Currently Learning
-
-* 🔹 LangChain & LLM Applications
-* 🔹 Generative AI
-* 🔹 Advanced Java & Spring Boot
-* 🔹 REST API Development
-* 🔹 Data Structures & Algorithms
-* 🔹 System Design
-* 🔹 Docker & Backend Deployment
+🔹 LangChain & LLM Applications
+🔹 Generative AI
+🔹 Advanced Java & Spring Boot
+🔹 REST API Development
+🔹 Data Structures & Algorithms
+🔹 System Design
+🔹 Docker & Backend Deployment
 
 ---
 
