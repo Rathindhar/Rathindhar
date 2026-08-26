@@ -2,9 +2,13 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *"
 
   workflow_dispatch:
+
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
@@ -12,15 +16,17 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate Pac-Man
+      - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Push changes
-        uses: EndBug/add-and-commit@v9
+      - name: Push generated SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          message: "Update Pac-Man contribution graph"
-          add: "output/"
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
