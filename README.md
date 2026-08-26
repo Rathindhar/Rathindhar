@@ -48,13 +48,16 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 **LangChain • LLM Applications • Prompt Engineering • OpenAI API**
 
-### Tools
+### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/git" width="45" height="45" alt="Git" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.simpleicons.org/postman" width="45" height="45" alt="Postman" title="Postman"/>
 </p>
+
+**Git • GitHub • VS Code • Postman**
 
 ---
 
