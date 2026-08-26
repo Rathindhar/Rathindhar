@@ -74,22 +74,15 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rathindhar&show_icons=true&theme=tokyonight"
-    height="180"
-    alt="Rathindhar's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathindhar&layout=compact&theme=tokyonight"
-    height="180"
-    alt="Rathindhar's Top Languages"
+    src="https://streak-stats.demolab.com/?user=Rathindhar&theme=tokyonight&hide_border=true"
+    alt="Rathindhar's GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Rathindhar&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Rathindhar's GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rathindhar&theme=tokyonight"
+    alt="Rathindhar's GitHub Profile Summary"
   />
 </p>
 
