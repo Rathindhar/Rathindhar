@@ -59,8 +59,6 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
   />
 </p>
 
-**LangChain • LLM Applications • Prompt Engineering • OpenAI API**
-
 ### Tools & Platforms
 
 <p align="left">
