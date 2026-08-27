@@ -40,12 +40,23 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 </p>
 
 
-### AI & GenAI
+## AI & GenAI
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python" title="Python"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45" alt="LangChain" title="LangChain"/>
-  <img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="OpenAI" title="OpenAI"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    width="50"
+    height="50"
+    alt="Python"
+    title="Python"
+  />
+  <img
+    src="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-dark.svg"
+    width="50"
+    height="50"
+    alt="LangChain"
+    title="LangChain"
+  />
 </p>
 
 **LangChain • LLM Applications • Prompt Engineering • OpenAI API**
@@ -57,6 +68,7 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" height="45" alt="Postman" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/uipath/FA4616" width="45" height="45" alt="UiPath" title="UiPath"/>
 </p>
 
 
@@ -122,9 +134,10 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
   <a href="https://www.linkedin.com/in/rathindhar-r-m">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:rathindhar2004@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
-📧 **Email:** [rathindhar2004@gmail.com](mailto:rathindhar2004@gmail.com)
 
 ---
 
