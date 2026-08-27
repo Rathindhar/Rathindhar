@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rathindhar R M
+# 👋 Hi, I'm Rathindhar
 
 ### Backend Developer | Java & Spring Boot | GenAI Enthusiast
 
