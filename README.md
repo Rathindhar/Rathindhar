@@ -43,7 +43,9 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 ### AI & GenAI
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python" title="Python"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45" alt="LangChain" title="LangChain"/>
+  <img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="OpenAI" title="OpenAI"/>
 </p>
 
 **LangChain • LLM Applications • Prompt Engineering • OpenAI API**
