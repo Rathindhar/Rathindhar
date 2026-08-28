@@ -72,7 +72,7 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 * LangChain & LLM Applications
 * Generative AI
 * Advanced Java & Spring Boot
