@@ -83,7 +83,7 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img
