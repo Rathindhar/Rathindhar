@@ -45,17 +45,24 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 <p align="left">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    width="50"
-    height="50"
+    width="45"
+    height="45"
     alt="Python"
     title="Python"
   />
   <img
     src="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-dark.svg"
-    width="50"
-    height="50"
+    width="45"
+    height="45"
     alt="LangChain"
     title="LangChain"
+  />
+  <img
+    src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+    width="45"
+    height="45"
+    alt="Hugging Face"
+    title="Hugging Face"
   />
 </p>
 
@@ -136,6 +143,6 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+### "Build. Learn. Improve. Repeat."
 
-Thanks for visiting my profile! ⭐
+Thanks for visiting my profile!
