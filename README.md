@@ -13,7 +13,7 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
