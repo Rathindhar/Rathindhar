@@ -5,11 +5,11 @@
 I'm a Computer Science graduate focused on **backend development and software engineering**.
 I enjoy building practical applications with **Java, Spring Boot, REST APIs, and MySQL**, while also exploring **Generative AI and LLM applications**.
 
-* 🌍 Based in India
-* 💻 Focused on Backend Development
-* 🤖 Currently exploring GenAI & LangChain
-* 🧠 Practicing Data Structures & Algorithms
-* 🚀 Interested in building scalable and practical software
+*  Based in India
+*  Focused on Backend Development
+*  Currently exploring GenAI & LangChain
+*  Practicing Data Structures & Algorithms
+*  Interested in building scalable and practical software
 
 ---
 
