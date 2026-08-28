@@ -123,7 +123,7 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rathindhar-r-m">
