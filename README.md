@@ -101,7 +101,7 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 
 ---
 
-## 🐍 My Contributions
+## My Contributions
 
 
 <p align="center">
