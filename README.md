@@ -20,7 +20,6 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </p>
 
 ### Frontend Development
@@ -43,13 +42,6 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
 ## AI & GenAI
 
 <p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    width="45"
-    height="45"
-    alt="Python"
-    title="Python"
-  />
   <img
     src="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-dark.svg"
     width="45"
