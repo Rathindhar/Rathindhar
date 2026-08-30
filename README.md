@@ -132,9 +132,3 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-### "Build. Learn. Improve. Repeat."
-
-Thanks for visiting my profile!
