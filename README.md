@@ -51,6 +51,13 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
     title="LangChain"
   />
   <img
+  src="https://cdn.simpleicons.org/pydantic/E92063"
+  width="45"
+  height="45"
+  alt="Pydantic"
+  title="Pydantic"
+/>
+  <img
     src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
     width="45"
     height="45"
