@@ -74,6 +74,13 @@ I enjoy building practical applications with **Java, Spring Boot, REST APIs, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" height="45" alt="Postman" title="Postman"/>
   <img src="https://cdn.simpleicons.org/uipath/FA4616" width="45" height="45" alt="UiPath" title="UiPath"/>
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"
+  width="45"
+  height="45"
+  alt="Apache Maven"
+  title="Apache Maven"
+/>
 </p>
 
 
